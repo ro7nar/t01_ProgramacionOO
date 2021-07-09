@@ -21,7 +21,6 @@ public class Main3 {
 		int D = A+50;
 		System.out.println("***Su Sueldo Neto es: "+D+"***");
 	}
-	System.out.println("***Su Sueldo Neto es: ");
 	}
-	}
+}
 	

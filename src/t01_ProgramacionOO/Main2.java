@@ -16,6 +16,8 @@ public class Main2 {
 	}else {
 		System.out.println("***El número "+A+" No es multiplo de "+B+"***");
 	}
-
+		
+		System.out.println("***El número "+A+" No es multiplo de "+B+"***");
+	
 }
 } 

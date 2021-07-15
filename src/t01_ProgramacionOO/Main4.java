@@ -1,6 +1,6 @@
 package t01_ProgramacionOO;
 import java.util.Scanner;
-public class Main3 {
+public class Main4 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -8,8 +8,8 @@ public class Main3 {
 		System.out.println("----Ingrese un numero-----");
 		int A = lector.nextInt();
 		int F=1;
-		for(int ast=1; ast<=A;ast++ ) {
-			for(F=1;ast<=F;F++) {
+		for(int ast=A; ast<=A;ast-- ) {
+			for(F=1;F<=ast;F++) {
 				System.out.print("*");
 				
 			}
@@ -17,7 +17,5 @@ public class Main3 {
 		}
 		
 	}
-}
 
-	
-	
+}

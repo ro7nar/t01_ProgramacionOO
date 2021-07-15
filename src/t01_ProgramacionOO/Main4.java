@@ -14,6 +14,8 @@ public class Main4 {
 				
 			}
 			System.out.println();	
+			System.out.println("----Ingrese un numero-----");
+			System.out.println("----Ingrese un numero-----");
 		}
 		
 	}

@@ -4,6 +4,7 @@ public class Main3 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		// VALIO EL COMENTARIO ROY 
 		Scanner lector = new Scanner(System.in);
 		System.out.println("----Ingrese un numero-----");
 		int A = lector.nextInt();

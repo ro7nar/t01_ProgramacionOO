@@ -1,6 +1,6 @@
 package ejercicio.ordenamiento;
 
-public class MainTableroAjedrez {
+public abstract class  MainTableroAjedrez {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -106,14 +106,15 @@ public class MainTableroAjedrez {
 		tablero[7][5] = AlfilBlanco2;
 		tablero[7][6] = CaballoBlanco2;
 		tablero[7][7] = TorreBlanco2;
-		tablero[1][0]=  PeonNegro;
-		tablero[1][1]=  PeonNegro1;
-		tablero[1][2]=  PeonNegro2;
-		tablero[1][3]=  PeonNegro3;
-		tablero[1][4]=  PeonNegro4;
-		tablero[1][5]=  PeonNegro5;
-		tablero[1][6]=  PeonNegro6;
-		tablero[1][7]=  PeonNegro7;
+		tablero[6][0]=  PeonBlanco;
+		tablero[6][1]=  PeonBlanco1;
+		tablero[6][2]=  PeonBlanco2;
+		tablero[6][3]=  PeonBlanco3;
+		tablero[6][4]=  PeonBlanco4;
+		tablero[6][5]=  PeonBlanco5;
+		tablero[6][6]=  PeonBlanco6;
+		tablero[6][7]=  PeonBlanco7;
+		
 
 	}
 }
